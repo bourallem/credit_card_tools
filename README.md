@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Merge pull request #22 from SkalskiP/patch-1
